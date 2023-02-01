@@ -81,8 +81,8 @@ DATABASES = {
         'NAME': 'smartaidb',
         'USER': 'smartai',
         'PASSWORD': 'smartaidb2023!',
-        'HOST': '139.150.82.185',
-        'PORT': '2709',
+        'HOST': 'smartaidb.c9b6nayzzrwf.ap-northeast-2.rds.amazonaws.com',
+        'PORT': '3306',
     },
 }
 
